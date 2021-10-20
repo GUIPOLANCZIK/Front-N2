@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+        integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+      <link href='https://css.gg/search.css' rel='stylesheet'>
+     <link rel="stylesheet" href="css/estilo.css" type="text/css">
+
+    <title>PROJETO FINAL</title>
+
+	
+	
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<script type="text/javascript" src="engine0/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section --></head>
+<body>
+
+    <header id="topo-main">
+
+
+        <div id="topo">
+
+
+             <figure id="logo"></figure>
+        
+      
+                    <div id="login_sacola">
+
+   <div id="login"></div>
+
+      <div id="sacola"><i class="bi bi-bag-fill"></i></div>
+
+         
+                      </div>
+        
+            </div>
+        
+<div id="topo_baixo">
+                    <div id="externa_divBusca">
+
+                <div id="divBusca">
+  <input type="text" id="txtBusca" placeholder="Buscar..."/>
+  <i id="botaobuscar" class="gg-search"  ></i>
+                 </div>
+                        </div>
+
+              <button id="btn-menu"><a href="#menu"><i class="fa fa-bars fa-lg" aria-hidden="true"></i></a></button>
+
+            <nav id="menu">
+            <a id="btn-fechar" href="#">X</a>
+            <ul>
+                <a href="#">
+                    <li>HOME</li>
+                </a>
+                <a href="#">
+                    <li>NOSSOS PRODUTOS</li>
+                </a>
+                <a href="#">
+                    <li>QUEM SOMOS</li>
+                </a>
+                <a href="#">
+                    <li>CONTATENOS</li>
+                </a>
+                
+                
+            </ul>
+        </nav>
+
+    </div>
+
+
+<div id="div_cima_banner">  
+
+    <div class="divs_div_cima_banner">
+    <ul>
+                <a  href="#">
+                    <li>Comprar por whatsApp</li>
+                </a>
+     </ul>
+
+     </div>   
+     
+     <div class="divs_div_cima_banner">
+       <ul>        
+                <a   href="#">
+                    <li>Central de atendimentos</li>
+                </a>     
+
+          </ul>              
+                  </div>     
+
+</div>
+        
+        </header>
+
+    <section id="banner">
+        
+    <!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+    <div id="wowslider-container0">
+    <div class="ws_images"><ul>
+        <li><a href="http://wowslider.net"><img src="data0/images/banner2.jpg" alt="jquery image slider" title="banner2" id="wows0_0"/></a></li>
+        <li><img src="data0/images/bannercamisas1.jpg" alt="banner-camisas1" title="banner-camisas1" id="wows0_1"/></li>
+    </ul></div>
+    <div class="ws_bullets"><div>
+        <a href="#" title="banner2"><span><img src="data0/tooltips/banner2.jpg" alt="banner2"/>1</span></a>
+        <a href="#" title="banner-camisas1"><span><img src="data0/tooltips/bannercamisas1.jpg" alt="banner-camisas1"/>2</span></a>
+    </div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net"></a> </div>
+    <div class="ws_shadow"></div>
+    </div>  
+    <script type="text/javascript" src="engine0/wowslider.js"></script>
+    <script type="text/javascript" src="engine0/script.js"></script>
+    <!-- End WOWSlider.com BODY section -->
+        </section>
+
+
+        <div id="mini_banner">
+            
+        </div>
+        
+    <main id="corpo">
+    <section></section>
+    <section></section>
+    <section></section>
+    </main>
+    <footer id="rodape"></footer>
+
+	
+	
+	</body>
+</html>
